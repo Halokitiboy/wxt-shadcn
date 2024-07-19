@@ -39,14 +39,14 @@ Before you get started, please make sure you have the following installed:
 
    - **For Mac/Linux users** :apple: :penguin:
    ```bash
-   git clone git@github.com:imtiger/wxt-react-shadcn-tailwindcss-chrome-extension.git
+   git clone https://github.com/Halokitiboy/wxt-shadcn.git
    cd wxt-react-shadcn-tailwindcss-chrome-extension
    npm install
    npm run dev
    ```
    - **For Windows users** :windows:
    ```bash
-   git clone git@github.com:imtiger/wxt-react-shadcn-tailwindcss-chrome-extension.git
+   git clone https://github.com/Halokitiboy/wxt-shadcn.git
    cd wxt-react-shadcn-tailwindcss-chrome-extension
    npm install
    npm run dev
